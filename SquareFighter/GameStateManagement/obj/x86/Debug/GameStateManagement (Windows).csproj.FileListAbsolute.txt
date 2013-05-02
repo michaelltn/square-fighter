@@ -1,0 +1,6 @@
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache

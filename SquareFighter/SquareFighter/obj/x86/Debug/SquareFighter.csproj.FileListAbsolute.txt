@@ -1,0 +1,13 @@
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\SquareFighter.exe
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\SquareFighter.pdb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\obj\x86\Debug\SquareFighter.exe
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\obj\x86\Debug\SquareFighter.pdb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\Content\background.xnb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\Content\blank.xnb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Michael\Dropbox\T163\Semester 5\GAME3003 Console Game Development\Assignments\Square Fighter\SquareFighter\SquareFighter\obj\x86\Debug\ResolveAssemblyReference.cache
